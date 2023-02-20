@@ -7,3 +7,5 @@ In this repository of our Paper ‘Guided Image Filtering-Traditional To Deep Mo
 
 >The link of image result<br>
 >https://drive.google.com/drive/folders/16hls8cSnmPg1dLUhyioPM-tWy8PTVn3V?usp=sharing
+
+We uploaded part of results to the google drive due to the limitation of space. If you need extra comparison or communication, please make contacts with mileswyn@163.com.
